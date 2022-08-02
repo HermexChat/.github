@@ -1,10 +1,11 @@
 
 # Hermex Secure Messaging
 
+![Logo](https://avatars.githubusercontent.com/u/109030597?s=400&u=86a87a0d69f9c96965c8b2fcb97640f930d5834b&v=4)
+
 This is  a initial aproach Dapp providing encrypted secure messaging and privacy-focused file sharing. 
 
 
-![Logo](https://avatars.githubusercontent.com/u/109030597?s=400&u=86a87a0d69f9c96965c8b2fcb97640f930d5834b&v=4)
 
 
 ## Graphics
