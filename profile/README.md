@@ -9,6 +9,7 @@ This is  a initial aproach Dapp providing encrypted secure messaging and privacy
 
 ## Graphics
 
+![Initial Logic](https://github.com/HermexChat/graphics/blob/main/Hermex.drawio.png)
 
 
 
