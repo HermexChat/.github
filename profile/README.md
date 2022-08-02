@@ -19,6 +19,15 @@ This is  a initial aproach Dapp providing encrypted secure messaging and privacy
 Any additional information goes here
 
 
+
+## Features
+
+- Light/dark mode toggle
+- Live previews
+- Fullscreen mode
+- Cross platform
+
+
 ## Documentation
 
 
