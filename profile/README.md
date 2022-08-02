@@ -60,6 +60,21 @@ Any additional information goes here
 
 Takes two numbers and returns the sum.
 
+## Demo
+
+Insert gif or link to demo
+
+
+## Installation
+
+Install my-project with npm
+
+```bash
+  npm install my-project
+  cd my-project
+```
+    
+
 
 ## Authors
 
